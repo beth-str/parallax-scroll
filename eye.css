@@ -144,13 +144,13 @@ main {
 	width: 100%;
 }
 /* Slide 1 */
-#slide-1 .bcg {background-image:url('https://cloud.githubusercontent.com/assets/10066624/7167176/975571c8-e378-11e4-950f-9ec8b2816a96.jpg')}
+#slide-1 .bcg {background-image:url('http://beth-str.github.io/parallax-scroll/51acd12be33d267481.jpg')}
 
 /* Slide 2 */
 #slide-2 .bcg {background: none; background-color: #010101; height: 310px; text-align: center}
 
 /* Slide 3 */
-#slide-3 .bcg {background-image:url('../img/Blood-Moon-photo.jpg')}
+#slide-3 .bcg {background-image:url('http://beth-str.github.io/parallax-scroll/Blood-Moon-photo.jpg')}
 
 
 /* Slide 4 */
@@ -158,12 +158,12 @@ main {
 .curtainContainer .curtain {width: 300%; height: 1px; background-color: #000000; position: absolute; top: 25%; left: 0; opacity: 0}
 .curtainContainer .copy {position: absolute; bottom: 30%; left: 0; width: 100%; text-align: center;}
 
-#slide-4 .bcg {background-image:url('../img/3d-abstract_widewallpaper_ground-strike_67600.jpg')}
+#slide-4 .bcg {background-image:url('http://beth-str.github.io/parallax-scroll/3d-abstract_widewallpaper_ground-strike_67600.jpg')}
 
 /* Slide 5 */
 #slide-5 {position: relative;}
-#slide-5 .bcg {background-image:url('../img/lightning-c2a9-2011-christopher-martin.jpg')}
-#slide-5 .bcg2 {background-image:url('../img/lightning-c2a9-2011-christopher-martin.jpg'); position: fixed; bottom: 0; left: 0; opacity: 0; z-index: 1}
+#slide-5 .bcg {background-image:url('http://beth-str.github.io/parallax-scroll/lightning-c2a9-2011-christopher-martin.jpg')}
+#slide-5 .bcg2 {background-image:url('http://beth-str.github.io/parallax-scroll/lightning-c2a9-2011-christopher-martin.jpg'); position: fixed; bottom: 0; left: 0; opacity: 0; z-index: 1}
 #slide-5 .bcg3 {background: none; background-color: #010101; z-index: 2;  position: fixed; bottom: 0; left: 0; opacity: 0; z-index: 2}
 
 .hsContainer {
